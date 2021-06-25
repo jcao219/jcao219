@@ -44,4 +44,4 @@ He/him
 
 ### (human) Languages
 
-I speak three fluently: English, Mandarin Chinese, and German.
+I speak three with varying degrees of fluency: English, Mandarin Chinese, and German.
