@@ -21,7 +21,7 @@ This is my README manual. If your experience with me is different or you notice 
 
 ### Who am I?
 
-I'm a software developer by trade. Currently, my focus is on making it easy to solve business problems with TypeScript-based backend servers.
+I'm a software developer by trade. Most of my passion revolves around the JS ecosystem, especially Typescript.
 
 ### My professional history
 Large companies: Google, Walmart
